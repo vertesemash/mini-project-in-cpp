@@ -374,7 +374,7 @@ void FEE :: MODIFICATION(void)
  gotoxy(5,25) ;
  cout <<"Press <ENTER> for EXIT" ;
  gotoxy(5,5) ;
- cout <<"Enter Class for the Modification of the Fee Structure : "<<"\nInput 13 to output my name"<<endl ;
+ cout <<"Enter Class for the Modification of the Fee Structure : "<<"\n\tEndorsed by Info"<<endl ;
  gets(t1) ;
  t = atoi(t1) ;
  tclass = t ;

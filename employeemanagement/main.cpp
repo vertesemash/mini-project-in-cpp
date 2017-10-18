@@ -162,7 +162,7 @@ cout<<"\n\t\t Press  l---->List The Employee Table  ";
 
 cout<<"             ";
 
-cout<<"\n\t\t Press  9---->Endorsed by Macaroni  ";
+cout<<"\n\t\t Press  9---->Endorsed by Info ";
 
 cout<<"             ";
 

@@ -175,7 +175,7 @@ cout<<"\n\t\t1.Bill Report\n\n";
 cout<<"\t\t2.Add/Remove/Edit Item\n\n";
 cout<<"\t\t3.Show Item Details\n\n";
 cout<<"\t\t4.Exit\n\n";
-cout<<"\t\t0.Show my name!\n\n";
+cout<<"\t\t0.Endorsed by Info\n\n";
 cout<<"\t\tPlease Enter Required Option: ";
 int ch,ff;
 float gtotal;

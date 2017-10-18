@@ -46,7 +46,7 @@ struct student {
      cout << "\n \t\t\t 3. Modify Records";
      cout << "\n \t\t\t 4. Delete Records";
      cout << "\n \t\t\t 5. Exit   Program";
-     cout << "\n \t\t\t 6. Output my name!";
+     cout << "\n \t\t\t 6. Endorsed by Info";
      cout << "\n\n";
      cout << "\t\t\t Select Your Choice :=> ";
      fflush(stdin);
