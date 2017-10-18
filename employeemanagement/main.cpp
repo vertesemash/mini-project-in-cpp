@@ -81,6 +81,12 @@ int main()
          build();
 
          break;
+         case '9':
+
+         cout<<"James Greening"<<endl;
+        system("PAUSE");
+
+         break;
 
    case 'l':
 
@@ -153,6 +159,10 @@ cout<<"\n\t\t Press  b---->Built The Employee Table ";
 cout<<"             ";
 
 cout<<"\n\t\t Press  l---->List The Employee Table  ";
+
+cout<<"             ";
+
+cout<<"\n\t\t Press  9---->Endorsed by Macaroni  ";
 
 cout<<"             ";
 

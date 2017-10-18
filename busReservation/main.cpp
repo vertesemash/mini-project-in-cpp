@@ -362,8 +362,9 @@ while(1)
 
   <<"4.Buses Available. \n\t\t\t"
 
-  <<"5.Exit";
+  <<"5.Exit \n\t\t\t"
 
+  <<"6.Endorsed by Info";
   cout<<"\n\t\t\tEnter your choice:-> ";
 
   cin>>w;
@@ -389,7 +390,11 @@ while(1)
       break;
 
     case 5:  exit(0);
+        break;
 
+    case 6:
+        cout<<"James Greening"<<endl;
+        break;
   }
 
 }

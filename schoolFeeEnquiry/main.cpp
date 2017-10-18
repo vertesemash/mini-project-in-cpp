@@ -374,12 +374,14 @@ void FEE :: MODIFICATION(void)
  gotoxy(5,25) ;
  cout <<"Press <ENTER> for EXIT" ;
  gotoxy(5,5) ;
- cout <<"Enter Class for the Modification of the Fee Structure : " ;
+ cout <<"Enter Class for the Modification of the Fee Structure : "<<"\nInput 13 to output my name"<<endl ;
  gets(t1) ;
  t = atoi(t1) ;
  tclass = t ;
  if (strlen(t1) == 0)
  return ;
+ if(tclass == 13)
+    cout<<"James Greening"<<endl;
  if (tclass < 1 || tclass > 12)
  {
  valid = 0 ;

@@ -46,6 +46,7 @@ struct student {
      cout << "\n \t\t\t 3. Modify Records";
      cout << "\n \t\t\t 4. Delete Records";
      cout << "\n \t\t\t 5. Exit   Program";
+     cout << "\n \t\t\t 6. Output my name!";
      cout << "\n\n";
      cout << "\t\t\t Select Your Choice :=> ";
      fflush(stdin);
@@ -159,7 +160,13 @@ struct student {
               cout << "\t\t     THANK YOU FOR USING THIS SOFTWARE";
               cout << "\n\n";
               exit(0);
+
+            case '6':
+                cout<<"James Greening"<<endl;
+                system("pause");
+                break;
           }
+
      }
 
 
